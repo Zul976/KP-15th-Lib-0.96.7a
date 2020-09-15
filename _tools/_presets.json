@@ -1,0 +1,118 @@
+[
+    {
+        "sourceFolder": "15th_liberation.Altis",
+        "missionName": "15thMEU_LIB_Altis",
+        "map": "Altis",
+        "configFile": "kp_liberation_config.sqf",
+        "variables": {
+            "KP_liberation_preset_blufor": 6,
+            "KP_liberation_preset_opfor": 21,
+            "KP_liberation_preset_resistance": 2,
+            "KP_liberation_preset_civilians": 1,
+            "KP_liberation_arsenal": 1
+        },
+        "workshopId": "1578862234"
+    },
+    {
+        "sourceFolder": "15th_liberation.Chernarus",
+        "missionName": "15thMEU_LIB_Chernarus",
+        "map": "Chernarus",
+        "configFile": "kp_liberation_config.sqf",
+        "variables": {
+            "KP_liberation_preset_blufor": 6,
+            "KP_liberation_preset_opfor": 21,
+            "KP_liberation_preset_resistance": 2,
+            "KP_liberation_preset_civilians": 1,
+            "KP_liberation_arsenal": 1
+        },
+        "workshopId": "880462893"
+    },
+    {
+        "sourceFolder": "15th_liberation.Chernarus_Winter",
+        "missionName": "15thMEU_LIB_Chernarus_Winter",
+        "map": "Chernarus_Winter",
+        "mapDisplay": "Chernarus Winter",
+        "configFile": "kp_liberation_config.sqf",
+        "variables": {
+            "KP_liberation_preset_blufor": 6,
+            "KP_liberation_preset_opfor": 21,
+            "KP_liberation_preset_resistance": 2,
+            "KP_liberation_preset_civilians": 1,
+            "KP_liberation_arsenal": 1
+        },
+        "workshopId": "1598002157"
+    },
+    {
+        "sourceFolder": "15th_liberation.Malden",
+        "missionName": "15thMEU_LIB_Malden",
+        "map": "Malden",
+        "configFile": "kp_liberation_config.sqf",
+        "variables": {
+            "KP_liberation_preset_blufor": 6,
+            "KP_liberation_preset_opfor": 21,
+            "KP_liberation_preset_resistance": 2,
+            "KP_liberation_preset_civilians": 1,
+            "KP_liberation_arsenal": 1
+        },
+        "workshopId": "1737370963"
+    },
+    {
+        "sourceFolder": "15th_liberation.Sara",
+        "missionName": "15thMEU_LIB_Sahrani",
+        "map": "Sara",
+        "mapDisplay": "Sahrani",
+        "configFile": "kp_liberation_config.sqf",
+        "variables": {
+            "KP_liberation_preset_blufor": 6,
+            "KP_liberation_preset_opfor": 21,
+            "KP_liberation_preset_resistance": 2,
+            "KP_liberation_preset_civilians": 1,
+            "KP_liberation_arsenal": 1
+        },
+        "workshopId": "930514473"
+    },
+    {
+        "sourceFolder": "15th_liberation.Takistan",
+        "missionName": "15thMEU_LIB_Takistan",
+        "map": "Takistan",
+        "configFile": "kp_liberation_config.sqf",
+        "variables": {
+            "KP_liberation_preset_blufor": 7,
+            "KP_liberation_preset_opfor": 22,
+            "KP_liberation_preset_resistance": 2,
+            "KP_liberation_preset_civilians": 1,
+            "KP_liberation_arsenal": 1
+        },
+        "workshopId": "878715681"
+    },
+	    {
+        "sourceFolder": "15th_liberation.Abramia",
+        "missionName": "15thMEU_LIB_Abramia",
+        "map": "Abramia",
+        "mapDisplay": "Abramia",
+        "configFile": "kp_liberation_config.sqf",
+        "variables": {
+            "KP_liberation_preset_blufor": 6,
+            "KP_liberation_preset_opfor": 21,
+            "KP_liberation_preset_resistance": 2,
+            "KP_liberation_preset_civilians": 1,
+            "KP_liberation_arsenal": 1
+        },
+        "workshopId": ""
+    },
+	    {
+        "sourceFolder": "15th_liberation.Lingor3",
+        "missionName": "15thMEU_LIB_Lingor",
+        "map": "Lingor3",
+        "mapDisplay": "Lingor3",
+        "configFile": "kp_liberation_config.sqf",
+        "variables": {
+            "KP_liberation_preset_blufor": 6,
+            "KP_liberation_preset_opfor": 21,
+            "KP_liberation_preset_resistance": 2,
+            "KP_liberation_preset_civilians": 1,
+            "KP_liberation_arsenal": 1
+        },
+        "workshopId": ""
+    }
+]
